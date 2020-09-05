@@ -1,6 +1,6 @@
 # jj40
 
-![jj40](https://ae01.alicdn.com/kf/HTB18bq6bOERMeJjSspiq6zZLFXar.jpg?size=359506&height=562&width=750&hash=663a22d0109e2416ec8f54a7658686da)
+![jj40](https://i.imgur.com/yUB1myC.jpg)
 
 A compact 40% (12x4) ortholinear keyboard kit made and KPRepublic on AliExpress.
 
@@ -10,11 +10,11 @@ A compact 40% (12x4) ortholinear keyboard kit made and KPRepublic on AliExpress.
 
 Make example for this keyboard (after setting up your build environment):
 
-    make jj40:default
+    make jj40:invader
 
 Flashing example for this keyboard ([after setting up the bootloadHID flashing environment](https://docs.qmk.fm/#/flashing_bootloadhid))
 
-    make jj40:default:flash
+    make jj40:invader:flash
 
 **Reset Key**: Hold down the *Top Right Key* key, commonly programmed as *Backspace* while plugging in the keyboard.
 
